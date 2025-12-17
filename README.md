@@ -1,4 +1,4 @@
-### Projetos Java em andamento :)
+### Projetos Java em andamento.
 
 ---
 
