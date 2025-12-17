@@ -33,15 +33,9 @@
   <img align="center" alt="Kafka" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
 
-  <!-- Segurança -->
-  <img align="center" alt="OAuth2" height="40" width="50"
-       src="https://cdn.simpleicons.org/oauth/3C3C3D" />
-
   <!-- Testes -->
   <img align="center" alt="JUnit" height="40" width="50"
        src="https://cdn.simpleicons.org/junit5/25A162" />
-  <img align="center" alt="Mockito" height="40" width="50"
-       src="https://cdn.simpleicons.org/mockito/78A641" />
   <img align="center" alt="Selenium" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 
@@ -56,10 +50,6 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="GitHub" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-  <!-- Observabilidade -->
-  <img align="center" alt="SLF4J" height="40" width="50"
-       src="https://cdn.simpleicons.org/slf4j/1E8CBE" />
 
 </div>
 
